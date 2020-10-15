@@ -1,4 +1,4 @@
-# platzi-exchange
+# elton-exchange
 
 ## Project setup
 ```
